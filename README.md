@@ -27,4 +27,3 @@
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
